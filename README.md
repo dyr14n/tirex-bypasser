@@ -4,7 +4,7 @@
 
 ### *We are TiRex, we are never Tired.*
 
-[![Version](https://img.shields.io/badge/version-1.0.1--beta.4-blue.svg)](https://github.com/dyr14n/auto-bypasser/releases)
+[![Version](https://img.shields.io/badge/version-1.0.1--beta.5-blue.svg)](https://github.com/dyr14n/auto-bypasser/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/dyr14n/auto-bypasser)
 [![Downloads](https://img.shields.io/github/downloads/dyr14n/auto-bypasser/total.svg)](https://github.com/dyr14n/auto-bypasser/releases)
