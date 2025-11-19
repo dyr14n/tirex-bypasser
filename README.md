@@ -26,7 +26,7 @@
 - **Fast & Efficient** - Optimized for speed and reliability
 - **Beautiful UI** - Modern, intuitive user interface
 
-## 🎯 Supported Services
+## Supported Services
 
 | Service | Status | 
 |---------|--------|
